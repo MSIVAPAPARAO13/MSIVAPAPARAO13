@@ -77,14 +77,8 @@ SQL Databases
 - 🎥 Voom — WebRTC Video Calling App (Socket.IO + STUN)  
 - 👁️ Real-Time Pedestrian Attribute Recognition (YOLO + DeepSORT + CLIP)  
 - 🤖 GenAI Experiments — RAG, LangChain, LLM apps  
-- ⚡ n8n AI Automation Flows  
-
----
-
-# 📊 GitHub Stats & Activity
-<img width="1192" height="292" alt="image" src="https://github.com/user-attachments/assets/3cdd82fe-f84f-46a8-8a6f-97480e240312" />
-
-
+- ⚡ n8n AI Automation Flows
+- 
 ---
 
 ## 📬 Connect With Me  
